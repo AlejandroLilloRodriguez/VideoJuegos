@@ -1,12 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="30daf1f5-24c2-4dfe-8c29-70345ba3245b" name="Changes" comment="" />
+=======
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30daf1f5-24c2-4dfe-8c29-70345ba3245b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticaVideojuego.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aprendiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heroe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Personajes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PersonajesFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PersonajesMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PersonajesPrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestPersonajes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Villano.java" afterDir="false" />
+    </list>
+>>>>>>> cc87d85 (Initial commit)
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+>>>>>>> cc87d85 (Initial commit)
   <component name="ProjectId" id="2WFoQpbZha5rh2zuVEFVGxc5vow" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -17,7 +58,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "WebServerToolWindowFactoryState": "false"
+=======
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+>>>>>>> cc87d85 (Initial commit)
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -28,7 +79,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696337676808</updated>
+<<<<<<< HEAD
     </task>
     <servers />
   </component>
+=======
+      <workItem from="1696337677998" duration="6467000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+>>>>>>> cc87d85 (Initial commit)
 </project>
